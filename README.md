@@ -1,1 +1,1 @@
-# primeiraautomacao
+# Imagine que você todo dia precisa abrir o VSCode para criar algum código em Python. E antes de começar a trabalhar, você gosta de ouvir algum tipo de música relaxante. Esse programa ajuda a colocar a música relaxante e abrir o primeiro arquivo Python para iniciar um dia de trabalho. 
